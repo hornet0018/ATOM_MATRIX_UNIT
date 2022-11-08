@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SOD-123F,1,D_Schottky,
+"J1, J3",PinSocket_2x05_P2.00mm_Vertical,2,Conn_02x05_Odd_Even,
+"J2, J4",PinSocket_1x05_P2.00mm_Vertical,2,Conn_01x05_Female,
+J5,MJ179PH,1,Barrel_Jack_Switch,
+U1,M5ATOM,1,ATOM_Lite-M5,
